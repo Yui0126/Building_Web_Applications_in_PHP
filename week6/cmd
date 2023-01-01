@@ -1,0 +1,4 @@
+C:\Users\narus>cd "C:\Users\narus\AppData\Local\Temp\Temp1_ngrok-v3-stable-windows-amd64.zip"
+C:\Users\narus\AppData\Local\Temp\Temp1_ngrok-v3-stable-windows-amd64.zip\ngrok http 80
+
+C:\Users\narus\AppData\Local\Temp\Temp1_ngrok-v3-stable-windows-amd64.zip\ngrok config add-authtoken 2JiobxI4iyBWKlCaVgylWBaz3c7_2RU6C1bAqUWXdkwmYbtZB
